@@ -1,0 +1,41 @@
+﻿# ================================================================
+# TradeX
+# ================================================================
+
+# Secrets
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# Node
+node_modules/
+.next/
+out/
+dist/
+
+# Supabase local
+supabase/.temp/
+.supabase/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Temporary build files
+*.tmp
+*.bak

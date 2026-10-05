@@ -1,0 +1,39 @@
+﻿{
+    "folders": [
+        {
+            "name": "TradeX",
+            "path": "."
+        },
+        {
+            "name": "Frontend",
+            "path": "frontend"
+        },
+        {
+            "name": "Backend",
+            "path": "backend"
+        },
+        {
+            "name": "Supabase Functions",
+            "path": "backend/supabase/functions"
+        },
+        {
+            "name": "Supabase Tests",
+            "path": "backend/supabase/tests"
+        },
+        {
+            "name": "Documentation",
+            "path": "docs"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/.git": true,
+            "**/.next": true,
+            "**/node_modules": true
+        },
+        "search.exclude": {
+            "**/node_modules": true,
+            "**/.next": true
+        }
+    }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "name": "tradex-full-monorepo",
+  "private": true,
+  "scripts": {
+    "dev": "powershell -ExecutionPolicy Bypass -File .\\dev-tradex.ps1",
+    "dev:all": "powershell -ExecutionPolicy Bypass -File .\\dev-tradex.ps1",
+    "install:all": "npm --prefix ./frontend install",
+    "build": "npm --prefix ./frontend run build",
+    "start": "npm --prefix ./frontend run start",
+    "lint": "npm --prefix ./frontend run lint"
+  }
+}

@@ -1,0 +1,41 @@
+﻿TradeX MONOREPO VERIFICATION
+================================
+
+Date : 2026-10-04 13:53:47
+Project Ref : qeafpglktppvtnlkdipv
+
+[PASS] DIR C:\Users\PC\Desktop\TradeX-FULL-MONOREPO\frontend
+[PASS] DIR C:\Users\PC\Desktop\TradeX-FULL-MONOREPO\backend\supabase
+[PASS] DIR C:\Users\PC\Desktop\TradeX-FULL-MONOREPO\backend\supabase\functions
+[PASS] DIR C:\Users\PC\Desktop\TradeX-FULL-MONOREPO\backend\supabase\migrations
+[PASS] DIR C:\Users\PC\Desktop\TradeX-FULL-MONOREPO\backend\supabase\tests
+[PASS] DIR C:\Users\PC\Desktop\TradeX-FULL-MONOREPO\backend\supabase\schema
+[PASS] DIR C:\Users\PC\Desktop\TradeX-FULL-MONOREPO\docs
+
+FUNCTIONS : 0
+TEST FILES : 2
+MIGRATION FILES : 0
+TOTAL FILES : 30
+
+[PASS] Aucun secret évident détecté.
+
+EDGE FUNCTIONS
+--------------
+[MISSING] tradex-dashboard
+[MISSING] tradex-command-center
+[MISSING] tradex-reconciliation
+[MISSING] tradex-blockchain-adapter
+[MISSING] tradex-blockchain-scanners
+[MISSING] tradex-custody-adapter
+[MISSING] tradex-onboarding
+[MISSING] tradex-trading
+[MISSING] tradex-deposit
+[MISSING] tradex-withdrawal
+[MISSING] tradex-notifications
+[MISSING] tradex-settlement
+[MISSING] tradex-ops-worker
+
+BUILD TERMINE
+=============
+Durée : 00:00:25.8814853
+
